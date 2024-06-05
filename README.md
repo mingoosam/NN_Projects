@@ -1,4 +1,4 @@
-### Neural Networks Projects
+## Neural Networks Projects
 
 Projects created for Dr. Anderson's 2023 Spring Neural Networks (ECE 8770) course at the University of Missouri - Columbia as part of coursework for the MS in Electrical Engineering and Computer Science.
 
