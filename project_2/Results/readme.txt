@@ -1,0 +1,3 @@
+hidden_dim = 12  # number of hidden units in the RNN
+rate = 2 # how often we run the validation loop
+num_layers = 4  # number of recurrent layers
